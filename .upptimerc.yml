@@ -4,7 +4,7 @@ repo: check-status # The name of this repository
 
 sites:
   - name: Blog04
-    url: https://blog05.mountsinai.org
+    url: https://blog04.mountsinai.org
   - name: Blog05
     url: https://blog05.mountsinai.org
   - name: Blog06

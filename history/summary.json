@@ -88,5 +88,25 @@
     "timeMonth": 252,
     "timeYear": 252,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Test",
+    "url": "https://neuro-web-prod.mssm.edu",
+    "icon": "https://icons.duckduckgo.com/ip3/neuro-web-prod.mssm.edu.ico",
+    "slug": "test",
+    "status": "up",
+    "uptime": "2.59%",
+    "uptimeDay": "2.59%",
+    "uptimeWeek": "2.59%",
+    "uptimeMonth": "2.59%",
+    "uptimeYear": "2.59%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-12-23": 0
+    }
   }
 ]

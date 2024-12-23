@@ -13,6 +13,8 @@ sites:
     url: https://blog07.mountsinai.org
   - name: MSHS-APA
     url: https://mshs-apa.mountsinai.org
+  - name: Test
+    url: https://neuro-web-prod.mssm.edu
   # - name: Google
   #   url: https://www.google.com
   # - name: Wikipedia
@@ -41,6 +43,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  robotsText: "noindex, nofollow"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

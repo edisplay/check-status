@@ -13,8 +13,6 @@ sites:
     url: https://blog07.mountsinai.org
   - name: MSHS-APA
     url: https://mshs-apa.mountsinai.org
-  - name: Test
-    url: https://neuro-web-prod.mssm.edu
   # - name: Google
   #   url: https://www.google.com
   # - name: Wikipedia

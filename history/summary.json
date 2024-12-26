@@ -58,18 +58,20 @@
     "url": "https://blog07.mountsinai.org",
     "icon": "https://icons.duckduckgo.com/ip3/blog07.mountsinai.org.ico",
     "slug": "blog07",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 560,
-    "timeDay": 743,
-    "timeWeek": 560,
-    "timeMonth": 560,
-    "timeYear": 560,
-    "dailyMinutesDown": {}
+    "time": 572,
+    "timeDay": 734,
+    "timeWeek": 572,
+    "timeMonth": 572,
+    "timeYear": 572,
+    "dailyMinutesDown": {
+      "2024-12-26": 0
+    }
   },
   {
     "name": "MSHS-APA",

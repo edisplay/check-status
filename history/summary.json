@@ -58,18 +58,20 @@
     "url": "https://health.mountsinai.org",
     "icon": "https://icons.duckduckgo.com/ip3/health.mountsinai.org.ico",
     "slug": "mount-sinai-today",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 821,
-    "timeDay": 727,
-    "timeWeek": 821,
-    "timeMonth": 821,
-    "timeYear": 821,
-    "dailyMinutesDown": {}
+    "time": 798,
+    "timeDay": 677,
+    "timeWeek": 792,
+    "timeMonth": 798,
+    "timeYear": 798,
+    "dailyMinutesDown": {
+      "2025-01-30": 0
+    }
   },
   {
     "name": "Mount Sinai Innovation Partners",

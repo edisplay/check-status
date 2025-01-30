@@ -58,19 +58,19 @@
     "url": "https://health.mountsinai.org",
     "icon": "https://icons.duckduckgo.com/ip3/health.mountsinai.org.ico",
     "slug": "mount-sinai-today",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 798,
-    "timeDay": 677,
-    "timeWeek": 792,
-    "timeMonth": 798,
-    "timeYear": 798,
+    "status": "up",
+    "uptime": "97.81%",
+    "uptimeDay": "80.51%",
+    "uptimeWeek": "97.22%",
+    "uptimeMonth": "97.81%",
+    "uptimeYear": "97.81%",
+    "time": 806,
+    "timeDay": 724,
+    "timeWeek": 803,
+    "timeMonth": 806,
+    "timeYear": 806,
     "dailyMinutesDown": {
-      "2025-01-30": 0
+      "2025-01-30": 281
     }
   },
   {

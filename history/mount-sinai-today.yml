@@ -1,7 +1,7 @@
 url: https://health.mountsinai.org
-status: up
-code: 200
-responseTime: 762
-lastUpdated: 2025-01-31T11:13:41.157Z
+status: down
+code: 503
+responseTime: 377
+lastUpdated: 2025-01-31T16:41:11.719Z
 startTime: 2025-01-21T12:22:14.970Z
 generator: Upptime <https://github.com/upptime/upptime>
